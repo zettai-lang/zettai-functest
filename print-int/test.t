@@ -1,0 +1,2 @@
+  $ $ZETTAI_INTERP "$TESTDIR/mainBS.zt"
+  17

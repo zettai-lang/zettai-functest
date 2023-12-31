@@ -1,0 +1,3 @@
+proc() {
+  intrinsics.bsPrintln(value = 17)
+}
