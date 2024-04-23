@@ -1,2 +1,2 @@
-  $ $ZETTAI_INTERP "$TESTDIR/mainBS.zt"
+  $ $ZETTAI_INTERP "$TESTDIR/main.zt"
   17
