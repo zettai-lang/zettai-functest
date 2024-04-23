@@ -1,0 +1,3 @@
+proc() {
+  if _len(_args) == 1 then println("Hello world!") else println("Hey...")
+}
