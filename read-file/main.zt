@@ -1,0 +1,3 @@
+proc() {
+  println(_read_file("test"))
+}
